@@ -1,0 +1,100 @@
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/26 11:16 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/26 11:33 200 314.738µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:33 200 53.709µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:33 200 85.02µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:33 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/26 11:47 200 296.402µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:47 200 78.838µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:47 200 68.762µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:47 200 48.599µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:47 200 48.408µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:47 200 49.865µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 11:47 200 63.38µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:47 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 163.211µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 87.865µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 101.639µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 88.023µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 112.097µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 84.811µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 85.51µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:48 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:48 500 87.468µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:49 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:49 500 137.586µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:49 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:49 500 88.073µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 11:49 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 11:49 500 81.906µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:22 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 13:22 500 588.758µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:22 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 13:22 500 73.002µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:22 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 13:22 500 107.477µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:22 html/template: "hello.html" is undefined
+[INFO] 2019/07/26 13:22 500 136.957µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:23 listen tcp :8090: bind: address already in use
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/26 13:23 200 262.189µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 13:23 200 52.609µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:23 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/26 13:52 html/template: "./hello.html" is undefined
+[INFO] 2019/07/26 13:52 500 505.227µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:52 html/template: "./hello.html" is undefined
+[INFO] 2019/07/26 13:52 500 123.995µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:52 html/template: "./hello.html" is undefined
+[INFO] 2019/07/26 13:52 500 87.512µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 13:52 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/26 13:53 200 284.872µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 13:53 200 56.682µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 14:02 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/26 14:12 200 299.652µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 44.642µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 85.69µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 60.563µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 71.585µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 45.971µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 45.663µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 47.655µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 45.075µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 49.176µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 51.529µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 51.35µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 75.581µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 78.711µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:12 200 43.387µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/26 14:14 200 279.072µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:14 200 55.963µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:14 200 87.58µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:14 200 106.43µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:14 200 78.135µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/26 14:14 200 80.971µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/26 14:14 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/26 14:14 http: Server closed

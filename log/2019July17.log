@@ -1,0 +1,27 @@
+[ERRO] 2019/07/17 14:45 view: template: hello.html:5: function "title" not defined
+[ERRO] 2019/07/17 14:46 view: template: hello.html:5: function "title" not defined
+[ERRO] 2019/07/17 14:46 view: template: hello.html:5: function "title" not defined
+[ERRO] 2019/07/17 14:47 view: template: hello.html:5: function "title" not defined
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/17 14:48 200 280.144µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 231.539µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 97.417µs ::1 GET /sessions Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 7.985474774s ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 31.509µs ::1 GET /sessions Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 176.817µs ::1 GET /sessions Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 25.889µs ::1 GET /sessions Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 41.159µs ::1 GET /sessions Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 96.965µs ::1 GET /sessions Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 949.21µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 70.565µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 206.226µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 14:48 200 71.611µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/17 14:56 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/17 17:10 200 321.28µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 17:10 200 181.115µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 17:10 200 45.953µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 17:10 200 77.816µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 17:10 200 48.358µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36

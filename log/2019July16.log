@@ -1,0 +1,157 @@
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/16 10:06 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/16 10:12 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 10:12 400 367.947µs ::1 GET /user Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 10:12 400 163.571µs ::1 GET /user Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 10:12 400 113.974µs ::1 GET /user Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 10:13 400 118.267µs ::1 GET /user Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 10:13 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 10:13 400 374.586µs ::1 GET /user Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 10:16 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 16:46 200 777.454µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:46 200 109.321µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 16:53 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 16:53 200 1.749844ms ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 108.558µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 104.94µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 620.753693ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 127.998µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 2.673121ms ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 91.985269ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 94.552µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 144.627µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 127.84545ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 86.278µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 162.173µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 148.755705ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 72.704µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 139.633µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 158.354614ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 100.06µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 141.042µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 151.597137ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 143.883µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 144.085µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 158.811377ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 107.324µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 123.441µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 165.495315ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:53 200 66.16µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 16:58 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 16:58 200 457.882µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 260.872µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 83.972µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 46.932375ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 97.348µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 134.658µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 152.736205ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 100.091µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 116.506µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 147.305983ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 64.395µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 181.288µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 156.003797ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 103.968µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 109.246µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 156.648619ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 65.826µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 165.593µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 139.371725ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 63.842µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 148.256µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 161.753511ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 93.011µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 125.366µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 143.001582ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 72.908µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 133.846µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 126.429677ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 65.894µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 156.034µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 139.715753ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 68.155µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 160.574µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 140.505792ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 84.929µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 394.654µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 2.475570253s ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 1.392824ms ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 108.772µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 119.275767ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 86.985µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 137.143µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 99.202713ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 16:58 200 71.516µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:06 304 215.25µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:06 304 15.516µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 17:08 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 17:08 200 1.919949ms ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 200 147.277µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 200 237.649µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 200 619.67736ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 200 131.357µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 304 119.276µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 200 87.864µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 304 78.625µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 200 125.392904ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:08 304 15.383µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 17:08 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 17:09 200 210.934µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 233.136µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 105.391µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 93.84179ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 62.076µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 944.19µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 67.585139ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 53.469µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 112.551µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 117.458662ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 95.769µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 304 130.727µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 95.998µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 304 173.159µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 128.230126ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 304 43.105µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 304 90.319µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 200 125.116835ms ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 17:09 304 34.251µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 17:20 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 20:18 200 47.994µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 20:18 200 16.195µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 20:22 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 20:22 200 596.425µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 20:22 200 175.336µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 20:22 304 127.006µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 20:22 304 472.052µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/16 20:45 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/16 20:46 view engine is missing, use `RegisterView`
+[ERRO] 2019/07/16 20:48 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/16 20:49 304 239.948µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/16 20:49 200 187.329µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/17 09:38 200 17.988102ms ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/17 09:39 http: Server closed

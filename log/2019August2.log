@@ -1,0 +1,19 @@
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/08/02 14:44 200 7.04759ms ::1 GET /redis Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/08/02 14:44 200 7.061963ms ::1 GET /redis Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/08/02 14:45 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/08/02 14:45 200 5.852667ms ::1 GET /redis Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/08/02 14:45 200 473.938µs ::1 GET /redis Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/08/02 14:45 200 455.279µs ::1 GET /redis Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/08/02 14:50 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/08/02 14:50 200 9.198136ms ::1 GET /redis Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/08/02 14:52 http: Server closed
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/08/02 14:53 200 707.008µs ::1 GET /redis Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/08/02 14:53 http: Server closed

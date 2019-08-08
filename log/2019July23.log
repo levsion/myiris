@@ -1,0 +1,8 @@
+Now listening on: http://localhost:8090
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/23 09:44 200 261.745µs ::1 GET /websocket Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/23 09:44 200 84.875µs ::1 GET /iris-ws.js Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/23 09:44 200 268.63µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/23 09:44 200 8.19475108s ::1 GET /echo Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[INFO] 2019/07/23 09:44 200 247.674µs ::1 GET /views Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+[ERRO] 2019/07/24 11:04 http: Server closed

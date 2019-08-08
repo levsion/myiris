@@ -1,0 +1,30 @@
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/15 17:22 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/15 17:24 200 36.482µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:24 200 7.955µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:24 200 7.77µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:24 200 8.567µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:24 200 9.355µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/15 17:25 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/15 17:26 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/15 17:29 listen tcp :8080: bind: address already in use
+[ERRO] 2019/07/15 17:29 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[ERRO] 2019/07/15 17:30 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CMD+C to shut down.
+[INFO] 2019/07/15 17:45 200 23.079µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:45 200 7.562µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:45 200 9.362µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:45 200 7.775µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:45 200 20.755µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[INFO] 2019/07/15 17:45 200 11.612µs ::1 GET /ping Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+[ERRO] 2019/07/15 17:46 http: Server closed
